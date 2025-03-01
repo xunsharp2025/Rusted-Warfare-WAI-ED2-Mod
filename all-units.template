@@ -16,6 +16,10 @@ displayColor:#676767
 hidden:false
 displayName:战略资源
 displayColor:#FF7600
+[global_resource_gameanddaily]
+hidden:false
+displayName:娱乐商品
+displayColor:#FFFF00
 [global_resource_armament]
 hidden:false
 displayName:非法致癌物
@@ -28,6 +32,10 @@ displayColor:#ffff00
 hidden:false
 displayName:不变资本
 displayColor:#ff0000
+[global_resource_laboracc]
+hidden:false
+displayName:必要劳动积累
+displayColor:#ffff00
 [global_resource_comono]
 hidden:false
 displayName:利率

@@ -1131,7 +1131,7 @@
       <properties>
         <property name="fog" value="los" />
         <property name="type" value="mission" />
-        <property name="introText" value="指挥官,元首发现铁锈联邦的空降仓部队并没有被全部消灭,他们悄悄进行了发展,我们斯登港的村庄开始遭遇攻击,我们已经将所有的平民疏散到了远离战场的地方了,剩下的国民警卫队或许可以帮到你一点忙,你将指挥第289师团第8中型坦克装甲师;第6、7精锐步兵师及第3超级坦克装甲师稍后会来支援你,利用好我们的核武器及为数不多的宝贝海军粉碎他们" />
+        <property name="introText" value="指挥官,元首发现铁锈联邦的空降仓部队并没有被全部消灭.\n他们悄悄进行了发展,我们斯登港的村庄开始遭遇攻击.\n我们已经将所有的平民疏散到了远离战场的地方了,剩下的人或许可以帮到你一点忙.\n你将指挥第289师团第8中型坦克装甲师.\n第6,7精锐步兵师及第3超级坦克装甲师稍后会来支援你.\n利用好我们的核武器及为数不多的宝贝海军粉碎他们." />
         <property name="winCondition" value="commandCenter" />
         <property name="loseCondition" value="allUnitsAndBuildings" />
       </properties>

@@ -234,7 +234,7 @@
     <object name="map_info" id="419" x="0" y="20" width="20" height="20">
       <properties>
         <property name="fog" value="map" />
-        <property name="introText" value="萨布林:同志,我们在西南部战线的大部分军队处于劣势,敌人非常强大,一开始,我们竭尽全力试图打游击消耗他们,虽然效果是有的,但其影响入不敷出,我们虽然可以以最少的兵力消灭敌人的大部队,但每次我们消灭了敌人后,他们总能立刻换上另一打子,我军基本上无法推进,只能藏在隐蔽的地方打游击,正当我们前线的战士开始变得士气低迷的时候,我党地下党组织的经过不断的收集情报,终于确定了这里的位置——他们专门供给资源的基地,你将使用我军西南方面军第二精锐师的部分兵力来占领这里,只要可以夺取这里,我们或许可以利用这里的资源来进行突围,不仅大大削弱了敌军,还大大增强了我军的实力,到时候前线的战士们也将重振旗鼓、稳扎稳打,之后,我们可能会利用这里的资源研发一套完整的我军军备,当然,地下党组织还获取到了这样一个情报:看守当地的指挥官名为瓦西里·加尔夫,是联邦军中数量较为普遍的亲属家境贫寒、自身岁月静好、没有办法才继续待在军队的将军——虽然这位将军经常给他的父母送钱,但基本上都被各路大佬以各种名义收得差不多了,为了掩盖他的父母生活水平不好的事实,联邦的那群畜牲向这位这位军官的父母施压,要求他的父母不要透露实情;这名将军曾经在苏维埃联盟服役,在联邦夺取政权后,新政府所造成的军队问题令他深感厌恶,因为实在是没有饭吃了,所以就继续留在了军队当中去——利用这些情报,我们或许可以在这次战役中策反这位军官为我们而战,我们已经设法利用地下党组织的情报及地道战还有当地反抗组织及人民组成的游击队切断了该基地与其他基地的补给网与网络信号,我们将会趁此机会派出更多的游击队前来支援你的军队,但同时,你也要注意,请立刻完成对这一基地敌人的劝降活动,这并不是什么事,因为加尔夫将军和他的手下们曾经也算是我们的人,所以多多少少都对以前非常怀恋,并且他和他的手下们仅仅只是为了混口饭吃才继续留在联邦的军队的/>
+        <property name="introText" value="萨布林:同志,我们在西南部战线的大部分军队处于劣势,\n敌人非常强大.\n一开始,我们竭尽全力试图打游击消耗他们,\n虽然效果是有的,但其影响入不敷出,\n我们虽然可以以最少的兵力消灭敌人的大部队,\n但每次我们消灭了敌人后,他们总能立刻换上另一打子\n我军基本上无法推进,只能藏在隐蔽的地方打游击.\n正当我们前线的战士开始变得士气低迷的时候,\n我党地下党组织的经过不断的收集情报,\n终于确定了这里的位置——他们专门供给资源的基地,\n你将使用我军西南方面军第二精锐师的部分兵力来攻击这里,\n只要可以夺取这里,我们或许可以利用这里的资源来进行突围,\n不仅大大削弱了敌军,还大大增强了我军的实力,\n到时候前线的战士们也将重整旗鼓.\n之后我们可能会利用这里的资源研发一套完整的我军军备,\n当然,此次战役你同样不是孤身一人,\n或者说你第一个要去面对的敌人就是值得统战的朋友,\n地下党组织还获取到了这样一个情报:\n看守当地的指挥官名为瓦西里·加尔夫,\n是联邦军中数量较为普遍的只有自身是整个家庭条件最好的成员的将军,\n虽然这位将军经常给他的父母送钱,但基本上都被各种官僚吞得差不多了,\n他自然也知道这件事,但他能有什么办法呢?\n这名将军曾经在苏维埃联合国服役,\n在那帮人夺权后,新政府所造成的军队问题令他深感厌恶,\n因为实在是没有饭吃了,所以就继续留在军队当中去了.\n利用这些情报,我们或许可以在这次战役中策反这位军官为我们而战,\n我们已经设法利用地下党组织的情报及敌后游击队切断了该基地与其他基地的补给网与网络信号,\n我们将陆陆续续派出更多的敌后游击队前来支援你的任务,\n请尽快完成针对这一基地敌人的策反计划,\n这是难得的机会,假设他们没有投降,\n那么到时候不光敌后游击队同志们的血白流了,\n我们也将陷入困境当中去."/>
 		<property name="loseCondition" value="allUnitsAndBuildings" />
         <property name="winCondition" value="allUnitsAndBuildings" />
         <property name="type" value="mission" />
@@ -251,7 +251,7 @@
     <object name="Dialog3" type="unitDetect" id="421" x="40" y="0" width="20" height="20">
       <properties>
         <property name="delay" value="13s" />
-        <property name="globalMessage" value="萨布林:因为我们有着足以使这所基地的指挥官归降我们的情报,并且敌军主力很快就会赶来" />
+        <property name="globalMessage" value="萨布林:我们完全可以确定下来看守当地的指挥官的立场站在我们的方向,并且敌军主力很快就会赶来" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
         <property name="globalMessage_textColor" value="#FF00FF00" />
       </properties>
@@ -2794,14 +2794,14 @@
     <object name="Dialog7" type="unitDetect" id="423" x="60" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="39s" />
-        <property name="globalMessage" value="我:这个世界蒸蒸日上,联邦统治下的地球太好了,不是吗? " />
+        <property name="globalMessage" value="我:这样的，我认为我们有应该谈的东西" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
       </properties>
     </object>
     <object name="Dialog8" type="unitDetect" id="424" x="80" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="48s" />
-        <property name="globalMessage" value="加尔夫将军:好你大坝,我的士兵们一个月才四五千,你个被共产主义所溺爱的巨婴" />
+        <property name="globalMessage" value="加尔夫将军:什么事?有多重要?" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
         <property name="globalMessage_textColor" value="#FFFF0004" />
       </properties>
@@ -2809,44 +2809,43 @@
     <object name="Dialog9" type="unitDetect" id="425" x="100" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="57s" />
-        <property name="globalMessage" value="我:抱歉,我戳中了你的痛点" />
+        <property name="globalMessage" value="我:这样的,我们知道你的那些情况,并愿意理解你" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
       </properties>
     </object>
     <object name="Dialog10" type="unitDetect" id="426" x="120" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="66s" />
-        <property name="globalMessage" value="我:我这样的,对比一下曾经与现在的天下吧" />
+        <property name="globalMessage" value="加尔夫将军:怎么说?" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
+        <property name="globalMessage_textColor" value="#FFFF0004" />
       </properties>
     </object>
     <object name="Dialog12" type="unitDetect" id="427" x="140" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="75s" />
-        <property name="globalMessage" value="我:你应该熟悉曾经的日子,对吧,早上九点上班、下午四点下班后在个人计算机上打把游戏的日子多好啊" />
+        <property name="globalMessage" value="我:现如今地球政府是极为反动的买办阶级专政" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
       </properties>
     </object>
     <object name="Dialog13" type="unitDetect" id="428" x="160" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="80s" />
-        <property name="globalMessage" value="加尔夫将军:没事，以前的日子确实挺好的,只可惜回不去了" />
+        <property name="globalMessage" value="我:我懂你和你的手下为了这样子的政府服役是多么的糟" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
-        <property name="globalMessage_textColor" value="#FFFF0004" />
       </properties>
     </object>
     <object name="Dialog14" type="unitDetect" id="429" x="180" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="90s" />
-        <property name="globalMessage" value="加尔夫将军:新政府是违背初心、乱搞冒险主义的" />
+        <property name="globalMessage" value="我:但现如今我们都应该去推翻这样的反动政权并重新建立一个真正民主的政权" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
-        <property name="globalMessage_textColor" value="#FFFF0004" />
       </properties>
     </object>
     <object name="Dialog15" type="unitDetect" id="430" x="200" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="100s" />
-        <property name="globalMessage" value="加尔夫将军:如果再新的政府比原来的政府还要糟糕,那么这是不值得去争取的" />
+        <property name="globalMessage" value="加尔夫将军:好,够爽快,就喜欢你这种把话明了说的" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
         <property name="globalMessage_textColor" value="#FFFF0004" />
       </properties>
@@ -2854,15 +2853,15 @@
     <object name="Dialog16" type="unitDetect" id="431" x="220" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="115s" />
-        <property name="globalMessage" value="萨布林:这是一个很明显的问题——我们并非出于冒险的想法才革命的" />
+        <property name="globalMessage" value="加尔夫将军:但我就担心总会有几个小人会把我给做了" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
-        <property name="globalMessage_textColor" value="#FF00FF00" />
+        <property name="globalMessage_textColor" value="#FFFF0004" />
       </properties>
     </object>
     <object name="Dialog17" type="unitDetect" id="432" x="240" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="130s" />
-        <property name="globalMessage" value="萨布林:我们仅仅只是想要回到那个人类才是地球第一的时代,因此,现在革命其实不算太晚" />
+        <property name="globalMessage" value="萨布林:这你完全可以放十个心,那些战役应该有情报吧,他们那杯水车薪般的战斗力已经展现出来了" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
         <property name="globalMessage_textColor" value="#FF00FF00" />
       </properties>
@@ -2870,7 +2869,7 @@
     <object name="Dialog18" type="unitDetect" id="433" x="260" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="135s" />
-        <property name="globalMessage" value="萨布林:在老表们的充斥着冒险主义的政治下,现如今人还不如狗活得好,环境被破坏了?民众的问题!" />
+        <property name="globalMessage" value="萨布林:更何况那种小把戏的表现就更不必多此一举的拿出来了" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
         <property name="globalMessage_textColor" value="#FF00FF00" />
       </properties>
@@ -2878,7 +2877,7 @@
     <object name="Dialog19" type="unitDetect" id="434" x="280" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="142s" />
-        <property name="globalMessage" value="加尔夫将军:不要再煽情了,自打一开始我就准备归降你们的,只不过有东西一直在盯着我看" />
+        <property name="globalMessage" value="加尔夫将军:不必多言,现在请帮我一个忙,这样的,我知道你们的游击队做了什么,你们应该可以理解要干什么吧?" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
         <property name="globalMessage_textColor" value="#FFFF0004" />
       </properties>
@@ -2886,7 +2885,7 @@
     <object name="Dialog20" type="unitDetect" id="435" x="260" y="20" width="20" height="20">
       <properties>
         <property name="delay" value="150s" />
-        <property name="globalMessage" value="萨布林:好,(用喇叭喊)我们的战士们现已将你包围,请立即投降,缴枪不杀!" />
+        <property name="globalMessage" value="敌后游击队队长:好,(用喇叭喊)我们的战士们现已将你包围,请立即投降,缴枪不杀!" />
         <property name="globalMessage_delayPerChar" value="0.1s" />
         <property name="globalMessage_textColor" value="#FF00FF00" />
       </properties>

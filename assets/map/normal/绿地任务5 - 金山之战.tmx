@@ -9691,7 +9691,7 @@ FAMYAdpTTsQYuNxdcnO4/sb8/z+tScR3wHlgMQAAAABJRU5ErkJggg==
     <object name="map_info" id="1" x="0" y="320" width="20" height="20">
       <properties>
         <property name="fog" value="los" />
-        <property name="introText" value="指挥官,由于上场保卫战的花费导致了我们的国库开始空虚,元首想着他们既然让我们遭受巨大损失,那么就让他们赔钱给我们,我们想要就得自己来拿,这规矩谁都懂的;为了拿下这里,元首派了其他两位指挥官协助你的作战,并且允许你使用缴获来的火蜂战机,最重要的是,若是你和他们打赢了,元首保证金山银山这点小意思都对不起你和他们为帝国所拿的钱" />
+        <property name="introText" value="指挥官,由于上场保卫战的花费导致了我们遭遇了重大损失.\n元首想着他们既然让我们遭受巨大损失,那么就让他们赔钱给我们.\n我们想要就得自己来拿,这规矩谁都懂的.\n为了拿下这里,元首派了其他两位指挥官协助你的作战.\n并且还允许你使用为数不多的缴获来的火蜂战机,\n最重要的是,若是你和他们打赢了,\n元首可以保证金山银山这点小意思都对不起你和他们为帝国所搞的钱." />
         <property name="type" value="mission" />
         <property name="winCondition" value="allBuildings" />
         <property name="loseCondition" value="allUnitsAndBuildings" />

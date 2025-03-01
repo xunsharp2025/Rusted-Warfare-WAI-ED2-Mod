@@ -26,7 +26,7 @@
     <object name="map_info" id="1" x="0" y="0" width="20" height="20">
       <properties>
         <property name="fog" value="los" />
-        <property name="introText" value="隆美尔:指挥官先生,我将批准您使用我们最新的坦克,为我解决此处的铁锈联邦军队,将这群累赘赶出火星.听着,如果您能在此战帮助我获得大量的威望,那么听着,你将在战后拥有享不尽的财富及酒池肉林般多的地球美女"/>
+        <property name="introText" value="隆美尔:指挥官先生,我将批准您使用我们最新的坦克,为我解决此处的铁锈联邦军队.\n将这群累赘赶出火星.听着,如果您能在此战帮助我获得大量的威望.\n那么听着,你将在战后拥有享不尽的财富及酒池肉林般多的地球美女."/>
         <property name="type" value="mission" />
         <property name="winCondition" value="commandCenter" />
         <property name="loseCondition" value="allUnitsAndBuildings" />

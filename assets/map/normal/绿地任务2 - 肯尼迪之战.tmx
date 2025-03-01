@@ -132,7 +132,7 @@ AFYIZ1bjq7r+AAAAAElFTkSuQmCC
         <property name="type" value="mission" />
         <property name="winCondition" value="commandCenter" />
         <property name="loseCondition" value="allBuildings" />
-        <property name="introText" value="指挥官,您在上场战役的表现得到了元首和高层的认可,派出了希特勒上将来协助你在本次的战役,上场战役你让铁锈联邦什么都来不及反应就被打的节节败退,本次任务你将指挥第136主力师第2混合装甲师发起全面进攻,此事之后他们肯定会立马派出很能干的指挥官,还有,我们已经了解了这座地下城市的名称,叫作肯尼迪,并且,这座地下城市的名称真够脑洞大开的,不过也正好对应了我们当前对铁锈的进攻局势"/>
+        <property name="introText" value="指挥官,您在上场战役的表现得到了元首和高层的认可,\n派出了希特勒上将来协助你在本次的战役,\n上场战役你让铁锈联邦什么都来不及反应就被打的节节败退,\n本次任务你将指挥第136主力师第2混合装甲师发起全面进攻.\n此事之后他们肯定会立马派出很能干的指挥官,我们也不能落后!\n还有,我们已经了解了这座地下城市的名称,叫作肯尼迪.\n当然,一开始联合指挥部听到这个名字后指挥部的所有人都笑到了."/>
       </properties>
     </object>
     <object name="Dialog" type="unitDetect" id="226" x="20" y="0" width="20" height="20">

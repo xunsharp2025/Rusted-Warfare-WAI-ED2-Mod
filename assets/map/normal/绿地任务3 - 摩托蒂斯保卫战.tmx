@@ -5284,7 +5284,7 @@ BgRBBAQ0IAgiIKABQRABAQ0IgggIaEAQREBAA4IgAgIa+H8uH+9UTmN3RwAAAABJRU5ErkJggg==
     <object name="map_info" id="52" x="0" y="0" width="20" height="20">
       <properties>
         <property name="fog" value="los" />
-        <property name="introText" value="指挥官,铁锈联邦的部队开始反击了,我们的拦截部队没有把所有的空降仓部队拦截下来其他的指挥官正在对付其他敌人的空降仓部队,安德里斯前面就是首都,战后元首会亲自给你颁发铁四叶和铁十字勋章,我们绝不能后……,草,稿子掉了;总之,一但失去摩托蒂斯,咱们差不多就完了" />
+        <property name="introText" value="指挥官,铁锈联邦的部队开始反击了,\n我们的拦截部队没有把所有的空降仓部队拦截下来,\n其他的指挥官正在对付其他敌人的空降仓部队,摩托蒂斯前面就是首都,\n战后元首会亲自给你颁发铁四叶和铁十字勋章,我们绝不能后……\n草,稿子掉了,总之,一但失去摩托蒂斯,咱们差不多就完了" />
         <property name="type" value="mission" />
         <property name="winCondition" value="mainBuildings" />
         <property name="loseCondition" value="allUnitsAndBuildings" />

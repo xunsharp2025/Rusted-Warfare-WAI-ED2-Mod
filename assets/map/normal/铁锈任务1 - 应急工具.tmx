@@ -186,7 +186,7 @@
     <object name="map_info" id="1" x="1980" y="0" width="20" height="20">
       <properties>
         <property name="fog" value="los" />
-        <property name="introText" value="指挥官,火星的叛军入侵了我们的乌克兰基辅方面区域,他们的空降仓部队尤其是坦克部队,在成功出仓后对基辅发起了高强度穿插,把特么的守备部队给插懵了,现在,我们在此部署的部队很明显很难守住这儿,抵御火星叛军进攻的任务就靠你了指挥官,总统先生正看着你的表现,要是总统先生因此战役心情大好的话,别说什么金山银山铜山矿山了,就算把国库里的一等钱给你或者说在全球宣扬你的英勇事迹都不一定对得起你的荣誉"/>
+        <property name="introText" value="指挥官,火星的叛军入侵了我们的乌克兰基辅方面区域.\n他们的空降仓部队尤其是坦克部队,在成功出仓后对基辅发起了高强度穿插,\n把特么的守备部队给插懵了,现在,我们在此部署的部队很明显很难守住这儿.\n抵御火星叛军进攻的任务就靠你了指挥官,总统先生正看着你的表现.\n要是总统先生因此战役心情大好的话,别说什么金山银山铜山矿山了.\n就算把国库里的一等钱给你或者说在全球宣扬你的英勇事迹都不一定对得起你的荣誉."/>
         <property name="type" value="mission" />
         <property name="winCondition" value="mainBuilings" />
         <property name="loseCondition" value="commandCenter" />
